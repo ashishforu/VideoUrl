@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Videobaseapp.iml" filepath="$PROJECT_DIR$/.idea/modules/Videobaseapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Videobaseapp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
